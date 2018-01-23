@@ -69,14 +69,14 @@
 <div>
     <div style="display: inline-block;margin:10px;border-width:2px;height:100px;width:200px;">
         Rancher：全栈化容器管理平台
-        <a href="http://58.250.168.239:8080" style="display: block; 
+        <a href="http://58.250.168.239:8081" style="display: block; 
             height: 34px; width: 160px;line-height: 2; text-align: center; 
             background: #00558b; color: #FFFFFF; font-size: 14px; font-weight: bold; 
             text-decoration: none; padding-top: 3px;" target="_blank">Rancher</a>
     </div>
     <div style="display: inline-block;margin:10px;border-width:2px;height:100px;width:200px;">
         Kuberntes：仪表板入口
-        <a href="http://58.250.168.239:8080/env/1a5933/kubernetes/dashboard" style="display: block; 
+        <a href="http://58.250.168.239:8081/env/1a5933/kubernetes/dashboard" style="display: block; 
             height: 34px; width: 160px;line-height: 2; text-align: center; 
             background: #00558b; color: #FFFFFF; font-size: 14px; font-weight: bold; 
             text-decoration: none; padding-top: 3px;" target="_blank">Kuberntes</a>
