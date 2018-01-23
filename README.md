@@ -72,41 +72,41 @@
         <a href="http://58.250.168.239:8080" style="display: block; 
             height: 34px; width: 160px;line-height: 2; text-align: center; 
             background: #00558b; color: #FFFFFF; font-size: 14px; font-weight: bold; 
-            text-decoration: none; padding-top: 3px;">Rancher</a>
+            text-decoration: none; padding-top: 3px;" target="_blank">Rancher</a>
     </div>
     <div style="display: inline-block;margin:10px;border-width:2px;height:100px;width:200px;">
         Kuberntes：仪表板入口
         <a href="http://58.250.168.239:8080/env/1a5933/kubernetes/dashboard" style="display: block; 
             height: 34px; width: 160px;line-height: 2; text-align: center; 
             background: #00558b; color: #FFFFFF; font-size: 14px; font-weight: bold; 
-            text-decoration: none; padding-top: 3px;">Kuberntes</a>
+            text-decoration: none; padding-top: 3px;" target="_blank">Kuberntes</a>
     </div>
     <div style="display: inline-block;margin:10px;border-width:2px;height:100px;width:200px;">
         Nexus：Maven、Docker仓库
         <a href="http://58.250.168.239:8181/" style="display: block; 
             height: 34px; width: 160px;line-height: 2; text-align: center; 
             background: #00558b; color: #FFFFFF; font-size: 14px; font-weight: bold; 
-            text-decoration: none; padding-top: 3px;">Nexus</a>
+            text-decoration: none; padding-top: 3px;" target="_blank">Nexus</a>
     </div>
     <div style="display: inline-block;margin:10px;border-width:2px;height:100px;width:200px;">
         Gogs：代码仓库
         <a href="http://58.250.168.239:1008/" style="display: block; 
             height: 34px; width: 160px;line-height: 2; text-align: center; 
             background: #00558b; color: #FFFFFF; font-size: 14px; font-weight: bold; 
-            text-decoration: none; padding-top: 3px;">Gogs</a>
+            text-decoration: none; padding-top: 3px;" target="_blank">Gogs</a>
     </div>
     <div style="display: inline-block;margin:10px;border-width:2px;height:100px;width:200px;">
         Jenkins：自动打包部署平台
         <a href="http://58.250.168.239:8183" style="display: block; 
             height: 34px; width: 160px;line-height: 2; text-align: center; 
             background: #00558b; color: #FFFFFF; font-size: 14px; font-weight: bold; 
-            text-decoration: none; padding-top: 3px;">Jenkins</a>
+            text-decoration: none; padding-top: 3px;" target="_blank">Jenkins</a>
     </div>
     <div style="display: inline-block;margin:10px;border-width:2px;height:100px;width:200px;">
         Sonarqube：代码质量检视平台
         <a href="http://58.250.168.239:9000" style="display: block; 
             height: 34px; width: 160px;line-height: 2; text-align: center; 
             background: #00558b; color: #FFFFFF; font-size: 14px; font-weight: bold; 
-            text-decoration: none; padding-top: 3px;">Sonarqube</a>
+            text-decoration: none; padding-top: 3px;" target="_blank">Sonarqube</a>
     </div>
 </div>
